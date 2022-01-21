@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Shout out to the great hackers:
+Shout out to the great hackers:
 
 - Unix:  Ken Thompson, Dennis Ritchie
 - GNU:   Richard Stallman
