@@ -24,8 +24,8 @@ Shout out to the great hackers:
 - Linux: Linus Torvalds, Paul E. McKenney
 -->
 
-### Hi there 👋
+Hi there 
 
-- 🔭 I’m currently working on the Linux Kernel :p
+I’m currently working on the Linux Kernel :p
 
 
