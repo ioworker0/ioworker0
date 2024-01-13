@@ -26,6 +26,6 @@ Shout out to the great hackers:
 
 ### Hi there 👋
 
- My playground is the Linux Kernel :p
+- 🔭 I’m currently working on the Linux Kernel :p
 
 
