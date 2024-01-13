@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Shout out to the great hackers:
 
 - Unix:  Ken Thompson, Dennis Ritchie
 - GNU:   Richard Stallman
 - Linux: Linus Torvalds, Paul E. McKenney
+-->
+
+### Hi there 👋
+
+ My playground is the Linux Kernel :p
+
+
