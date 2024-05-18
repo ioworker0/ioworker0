@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-**Mutated1994/Mutated1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Shout out to the great hackers:
-
 - Unix:  Ken Thompson, Dennis Ritchie
 - GNU:   Richard Stallman
 - Linux: Linus Torvalds, Paul E. McKenney
+...
+
 -->
 
 Hi there 
