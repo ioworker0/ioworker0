@@ -25,6 +25,5 @@ Shout out to the great hackers:
 
 Hi there 
 
-I’m currently working on the Linux Kernel :p
-
+I caught fire coding and working on Linux Kernel :p
 
