@@ -25,5 +25,5 @@ Shout out to the great hackers:
 
 Hi there 
 
-I caught fire coding and working on Linux Kernel :p
+I caught fire coding and working on [Linux Kernel](https://bit.ly/4jnu9p8) :p
 
