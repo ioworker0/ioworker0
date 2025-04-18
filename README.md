@@ -25,9 +25,8 @@ Shout out to the great hackers:
 
 Hi there 
 
-I caught fire coding and working on Linux Kernel :p
-
-[[Mailing List]](https://lore.kernel.org/all/?q=f:Lance+Yang) [Hunting Points](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
+I caught fire coding and working on Linux Kernel :p <br>
+[[Mailing List]](https://lore.kernel.org/all/?q=f:Lance+Yang)  [[Hunting Points]](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
 
 <!--
 $ git log --use-mailmap --author="lance.yang@linux.dev" --oneline
