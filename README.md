@@ -27,8 +27,7 @@ Hi there
 
 I caught fire coding and working on Linux Kernel :p
 
-Mailing List: https://lore.kernel.org/all/?q=f:Lance+Yang
-
+Mailing List: https://lore.kernel.org/all/?q=f:Lance+Yang <br>
 Git Log: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang
 
 <!--
