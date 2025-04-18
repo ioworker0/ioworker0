@@ -27,3 +27,7 @@ Hi there
 
 I caught fire coding and working on [Linux Kernel](https://bit.ly/4jnu9p8) :p
 
+<!--
+$ git log --use-mailmap --author="lance.yang@linux.dev" --oneline
+-->
+
