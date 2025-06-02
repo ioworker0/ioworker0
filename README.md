@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Shout out to the great hackers:
-- Unix:  Ken Thompson, Dennis Ritchie
-- GNU:   Richard Stallman
-- Linux: Linus Torvalds, Paul E. McKenney
+- Unix:  Ken Thompson, Dennis Ritchie ...
+- GNU:   Richard Stallman ...
+- Linux: Linus Torvalds, Paul E. McKenney ...
 ...
 
 -->
@@ -26,7 +26,7 @@ Shout out to the great hackers:
 Hi there 👋
 
 I caught fire working on Linux Kernel :p 
-[[Mailing List]](https://lore.kernel.org/all/?q=f:Lance+Yang) [[Hunting Points]](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
+[[Mailing List]](https://lore.kernel.org/all/?q=f:%22Lance+Yang%22) [[Hunting Points]](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
 
 <!--
 $ git log --use-mailmap --author="lance.yang@linux.dev" --oneline
