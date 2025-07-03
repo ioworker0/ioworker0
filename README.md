@@ -29,9 +29,9 @@ I caught fire working on Linux Kernel :p
 [[Hunting Points]](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
 
 <!--
-$ git log --author="lance.yang@linux.dev" --oneline
-
 bit.ly/4jnu9p8 -> https://lore.kernel.org/all/?q=f:Lance+Yang
+
+$ git log --author="lance.yang@linux.dev" --oneline --use-mailmap
 bit.ly/lanceyang -> https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang
 -->
 
