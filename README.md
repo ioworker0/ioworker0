@@ -25,7 +25,7 @@ Shout out to the great hackers:
 
 Hi there 👋
 
-I caught fire working on Linux Kernel :p 
+I caught fire working on Linux Kernel / LLM :p 
 [[Hunting Points]](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Lance+Yang)
 
 <!--
